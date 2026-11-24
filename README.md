@@ -1,0 +1,2 @@
+# bmszin
+script
